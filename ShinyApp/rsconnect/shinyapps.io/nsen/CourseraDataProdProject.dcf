@@ -1,0 +1,10 @@
+name: CourseraDataProdProject
+account: nsen
+server: shinyapps.io
+appId: 127645
+bundleId: 568049
+url: https://nsen.shinyapps.io/CourseraDataProdProject/
+when: 1474836993.27273
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: RunApp.R|www/ProjectDocumentation.Rmd
